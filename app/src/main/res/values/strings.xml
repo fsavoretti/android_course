@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+
+    <string name="ingresar_email_hint">Correo Electrónico</string>
+    <string name="ingresar_password_hint">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+
+    <string name="invalid_email">El email ingresado es inválido</string>
+    <string name="invalid_password">La contraseña ingresada es inválida</string>
+
+</resources>
